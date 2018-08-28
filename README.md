@@ -1,6 +1,6 @@
 # uptodate
 
-To ru nthis code:
+To run this code:
   1. Download this repository
   2. Insert your UChicago CNET ID and PASSWORD in "scrape.py"
   3. Adjust "output_generic_names.txt" to include only the generics you are mining data for (Including all 480+ will take a long time)
