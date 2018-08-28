@@ -1,14 +1,13 @@
 # uptodate
 
-PLEASE NOTE:
-TO RUN THIS CODE:
-  1. DOWNLOAD THIS REPOSITORY
-  2. INSERT YOUR UCHICAGO CNET ID AND PASSWORD IN "scrape.py"
-  3. ADJUST "output_generic_names.txt" TO INCLUDE ONLY THE GENERICS YOU ARE MINING DATA FOR (INCLUDING ALL 480+ WILL TAKE A LONG TIME)
-  4. RUN THE COMMAND "python scrape.py" FROM WITHIN YOUR DOWNLOADED REPOSITORY, please pip install any dependencies (i.e. Selenium)
+To ru nthis code:
+  1. Download this repository
+  2. Insert your UChicago CNET ID and PASSWORD in "scrape.py"
+  3. Adjust "output_generic_names.txt" to include only the generics you are mining data for (Including all 480+ will take a long time)
+  4. Run the command "python scrape.py" from within your downloaded repository, please pip install any dependencies (i.e. Selenium)
+  5. The output will be written to "requested_data.csv"
 
 THIS CODE WAS WRITTEN IN A macOS ENVIRONMENT, AND IS MEANT TO BE RUN IN PYTHON 2.7 WITH GOOGLE CHROME.
-
 
 The Linux OS was used to convert the pdf of Authorized Generics to "ag.txt"
 
