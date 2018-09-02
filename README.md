@@ -2,7 +2,8 @@
 
 To run this code:
   1. Download this repository
-  2. Insert your UChicago CNET ID and PASSWORD in "scrape.py"
+  2. Insert your UChicago CNET ID and PASSWORD in "scrape.py" Edit the path to the location of your chromedriver. (You should download
+  chromedriver from here https://sites.google.com/a/chromium.org/chromedriver/) 
   3. Adjust "output_generic_names.txt" to include only the generics you are mining data for (Including all 480+ will take a long time)
   4. Run the command "python scrape.py" from within your downloaded repository, please pip install any dependencies (i.e. Selenium)
   5. The output will be written to "requested_data.csv"
