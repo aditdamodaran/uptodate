@@ -8,7 +8,10 @@ To run this code:
   4. Run the command "python scrape.py" from within your downloaded repository, please pip install any dependencies (i.e. Selenium)
   5. The output will be written to "requested_data.csv"
 
-THIS CODE WAS WRITTEN IN A macOS ENVIRONMENT, AND IS MEANT TO BE RUN IN PYTHON 2.7 WITH GOOGLE CHROME.
+This code was is meant to be run with Python 2 and Google Chrome.
+
+
+Process:
 
 The Linux OS was used to convert the pdf of Authorized Generics to "ag.txt"
 
